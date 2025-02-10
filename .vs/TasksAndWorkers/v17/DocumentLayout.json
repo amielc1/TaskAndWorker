@@ -1,7 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\TasksAndWorkers\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\taskscreator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\taskscreator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\models\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\repositories\\mocktaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\repositories\\mocktaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|c:\\users\\amielc\\source\\repos\\amielc1\\taskandworker\\taskscreator\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4AA240-61F8-4665-9716-2BF7E8479A74}|TasksCreator\\TasksCreator.csproj|solutionrelative:taskscreator\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksCreator",
+              "DocumentMoniker": "C:\\Users\\amielc\\Source\\Repos\\amielc1\\TaskAndWorker\\TasksCreator\\TasksCreator.csproj",
+              "RelativeDocumentMoniker": "TasksCreator\\TasksCreator.csproj",
+              "ToolTip": "C:\\Users\\amielc\\Source\\Repos\\amielc1\\TaskAndWorker\\TasksCreator\\TasksCreator.csproj",
+              "RelativeToolTip": "TasksCreator\\TasksCreator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T08:26:02.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MockTaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Repositories\\MockTaskRepository.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Repositories\\MockTaskRepository.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Repositories\\MockTaskRepository.cs",
+              "RelativeToolTip": "TasksCreator\\Repositories\\MockTaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:42:49.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "TasksCreator\\Repositories\\TaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:42:21.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "TasksCreator\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:41:56.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TasksCreator\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:41:00.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\Source\\Repos\\amielc1\\TaskAndWorker\\TasksCreator\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\amielc\\Source\\Repos\\amielc1\\TaskAndWorker\\TasksCreator\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TasksCreator\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:13:38.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Services\\TaskService.cs",
+              "RelativeToolTip": "TasksCreator\\Services\\TaskService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:43:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Program.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Program.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Program.cs",
+              "RelativeToolTip": "TasksCreator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:43:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Models\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "TasksCreator\\Models\\TaskEntity.cs",
+              "ToolTip": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\Models\\TaskEntity.cs",
+              "RelativeToolTip": "TasksCreator\\Models\\TaskEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:37:31.382Z",
+              "EditorCaption": ""
             }
           ]
         }

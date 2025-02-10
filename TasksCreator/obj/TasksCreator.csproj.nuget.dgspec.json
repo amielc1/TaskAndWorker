@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\TasksAndWorkers\\TasksCreator\\TasksCreator.csproj": {}
+    "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\TasksCreator.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\TasksAndWorkers\\TasksCreator\\TasksCreator.csproj": {
+    "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\TasksCreator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\TasksAndWorkers\\TasksCreator\\TasksCreator.csproj",
+        "projectUniqueName": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\TasksCreator.csproj",
         "projectName": "TasksCreator",
-        "projectPath": "C:\\Projects\\TasksAndWorkers\\TasksCreator\\TasksCreator.csproj",
+        "projectPath": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\TasksCreator.csproj",
         "packagesPath": "C:\\Users\\amielc\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\TasksAndWorkers\\TasksCreator\\obj\\",
+        "outputPath": "C:\\Users\\amielc\\source\\repos\\amielc1\\TaskAndWorker\\TasksCreator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\amielc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.efcore.9.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
